@@ -11,7 +11,6 @@
 ## Foodle
 ![foodle_preview](https://user-images.githubusercontent.com/97707320/158897426-04a9b819-8518-4100-85e6-25e973aa84c0.gif)
 
-
 <!---
 Daniel-Ope06/Daniel-Ope06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
