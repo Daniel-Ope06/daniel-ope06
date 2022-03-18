@@ -4,9 +4,11 @@
 - 💞️ I’m looking to collaborate on game projects
 - 📫 Email: opeoluwaoyedeji06@gmail.com
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=daniel-ope06&show_icons=true&theme=apprentice"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=daniel-ope06&show_icons=true&theme=apprentice"/>
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-ope06&layout=compact&theme=apprentice"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-ope06&layout=compact&theme=apprentice"/>
+
+# ______
 
 # Examples of work
 ## Mine Chess
@@ -14,8 +16,3 @@
 
 ## Foodle Web App
 ![foodle_preview](https://user-images.githubusercontent.com/97707320/158897426-04a9b819-8518-4100-85e6-25e973aa84c0.gif)
-
-<!---
-Daniel-Ope06/Daniel-Ope06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
