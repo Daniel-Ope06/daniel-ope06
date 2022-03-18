@@ -8,8 +8,6 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-ope06&layout=compact&theme=apprentice"/>
 
-# ______
-
 # Examples of work
 ## Mine Chess
 ![pawn_promotion](https://user-images.githubusercontent.com/97707320/158883047-6127cc57-48ee-4a6d-8360-37f83992732d.gif)
