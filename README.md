@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on game projects
 - 📫 Email: opeoluwaoyedeji06@gmail.com
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=daniel-ope06&show_icons=true&theme=apprentice"/>
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=daniel-ope06&show_icons=true&theme=apprentice"/>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-ope06&layout=compact&theme=apprentice"/>
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-ope06&layout=compact&theme=apprentice"/>
 
 # Examples of work
 ## Mine Chess
