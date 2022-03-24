@@ -10,7 +10,7 @@
 
 # Examples of work
 ## Mine Chess
-![pawn_promotion](https://user-images.githubusercontent.com/97707320/158883047-6127cc57-48ee-4a6d-8360-37f83992732d.gif)
+![UI-mine](https://user-images.githubusercontent.com/97707320/159814033-80fdc64b-f6f2-45ab-8069-54a2213c6cb7.gif)
 
 ## Foodle Web App
 ![foodle_preview](https://user-images.githubusercontent.com/97707320/158897426-04a9b819-8518-4100-85e6-25e973aa84c0.gif)
