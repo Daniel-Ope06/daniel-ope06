@@ -14,3 +14,6 @@
 
 ## Foodle Web App
 ![foodle_preview](https://user-images.githubusercontent.com/97707320/158897426-04a9b819-8518-4100-85e6-25e973aa84c0.gif)
+
+## Textify
+![2_out](https://user-images.githubusercontent.com/97707320/174207009-e13274a2-a602-4834-bf9f-bbc6a5789de6.png)
