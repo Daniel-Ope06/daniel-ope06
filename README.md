@@ -1,9 +1,9 @@
 <h1> 👋 Hi, I’m Daniel Ope </h1>
 <ul>
-  <li>I’m interested in Game Development 🎮</li>
-  <li>I’m currently studying Computer Science 🖥</li>
-  <li>I’m looking to collaborate on game projects 💞️</li>
-  <li>Email: opeoluwaoyedeji06@gmail.com</li>
+  <li>I’m interested in <strong>Game Development</strong> 🎮</li>
+  <li>I’m currently studying <strong>Computer Science</strong> 🖥</li>
+  <li>I’m looking to collaborate on <strong>Game Projects</strong> 💞️</li>
+  <li>Email: <strong>opeoluwaoyedeji06@gmail.com</strong></li>
 </ul>
 <br/>
 
@@ -13,6 +13,15 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-ope06&layout=compact&theme=apprentice" alt="most used languages"/></td>
   </tr>
 </table>
+<br/>
+
+<h2>My Toolset</h2>
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Angular" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <br/>
 
 <h1>Examples of work</h1>
