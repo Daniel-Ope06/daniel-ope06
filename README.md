@@ -37,9 +37,7 @@
 <details>
   <summary><h3>About Me</h3></summary>
   <p>
-    I'm an aspiring game developer in my 2nd year at Elizade University. I enjoy creating visual experiences and problem-solving. These interests motivated me to learn 𝘱𝘩𝘰𝘵𝘰𝘨𝘳𝘢𝘱𝘩𝘺, 𝘢𝘯𝘪𝘮𝘢𝘵𝘪𝘰𝘯, and 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨.
-
-Game development is one field that merges artistic visual experiences with taxing problem solving (programming). This seems like the perfect career for me. Besides the earlier mentioned skills, I'm currently learning/using 𝗚𝗼𝗱𝗼𝘁, 𝗕𝗹𝗲𝗻𝗱𝗲𝗿, and 𝗨𝗻𝗿𝗲𝗮𝗹 𝗘𝗻𝗴𝗶𝗻𝗲.
+As an aspiring game developer in my 3rd year at Elizade University, I am passionate about creating visually stunning and immersive experiences. My interests in problem-solving and programming have led me to master various tools and technologies such as 𝘱𝘩𝘰𝘵𝘰𝘨𝘳𝘢𝘱𝘩𝘺, 𝘢𝘯𝘪𝘮𝘢𝘵𝘪𝘰𝘯, and 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨. I am constantly seeking to expand my skill set and am currently learning/using 𝗚𝗼𝗱𝗼𝘁, 𝗕𝗹𝗲𝗻𝗱𝗲𝗿, and 𝗨𝗻𝗿𝗲𝗮𝗹 𝗘𝗻𝗴𝗶𝗻𝗲 to further develop my abilities. I am confident that my passion for game development, my strong foundation in programming and my ongoing efforts to improve my skills make me an ideal candidate for any role in the industry.
   </p>
 </details>
 
