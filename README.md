@@ -38,11 +38,15 @@
 <img src="https://user-images.githubusercontent.com/97707320/159814033-80fdc64b-f6f2-45ab-8069-54a2213c6cb7.gif" alt="mine chess gif"/>
 <br/>
 
+<h2>✒ Textify Web App</h2>
+<img src="https://user-images.githubusercontent.com/97707320/215551180-a31c6bda-de38-454e-bb9d-34d4335ccf17.gif" alt="Textify Web App gif"/>
+<br/>
+
 <h2>🚚 Foodle Web App</h2>
 <img src="https://user-images.githubusercontent.com/97707320/158897426-04a9b819-8518-4100-85e6-25e973aa84c0.gif" alt="Foodle web app gif"/>
 <br/>
 
-<h2>✒ Textify</h2>
+<h2> Textify</h2>
 <img src="https://user-images.githubusercontent.com/97707320/174207009-e13274a2-a602-4834-bf9f-bbc6a5789de6.png" alt="Textify gif"/>
 <br/>
 
