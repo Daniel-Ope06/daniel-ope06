@@ -54,13 +54,3 @@
 As an aspiring game developer in my 3rd year at Elizade University, I am passionate about creating visually stunning and immersive experiences. My interests in problem-solving and programming have led me to master various tools and technologies such as 𝘱𝘩𝘰𝘵𝘰𝘨𝘳𝘢𝘱𝘩𝘺, 𝘢𝘯𝘪𝘮𝘢𝘵𝘪𝘰𝘯, and 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨. I am constantly seeking to expand my skill set and am currently learning/using 𝗚𝗼𝗱𝗼𝘁, 𝗕𝗹𝗲𝗻𝗱𝗲𝗿, and 𝗨𝗻𝗿𝗲𝗮𝗹 𝗘𝗻𝗴𝗶𝗻𝗲 to further develop my abilities. I am confident that my passion for game development, my strong foundation in programming and my ongoing efforts to improve my skills make me an ideal candidate for any role in the industry.
   </p>
 </details>
-
-<details>
-  <summary><h3>GitHub Stats</h3></summary>
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=daniel-ope06&show_icons=true&theme=apprentice" alt="github stats"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-ope06&layout=compact&theme=apprentice" alt="most used languages"/></td>
-    </tr>
-  </table>
- </details>
