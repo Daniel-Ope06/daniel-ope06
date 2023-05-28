@@ -43,7 +43,7 @@
 <br/>
 
 <h2>🚚 Foodle Web App</h2>
-<img src="https://user-images.githubusercontent.com/97707320/158897426-04a9b819-8518-4100-85e6-25e973aa84c0.gif" alt="Foodle web app gif"/>
+<img src="https://github.com/Daniel-Ope06/Daniel-Ope06/assets/97707320/69014ceb-677d-4059-9e7d-ea5f3bec602c" alt="Foodle web app gif"/>
 <br/>
 
 <h2> Textify</h2>
