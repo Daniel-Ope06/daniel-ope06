@@ -28,8 +28,6 @@
 
 <img align="left" alt="Godot" title="Godot" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
 
-<img align="left" alt="Flask" title="Flask" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-
 <img align="left" alt="GitHub" title="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br/><br/><br/><br/>
 
