@@ -33,18 +33,26 @@
 
 <h1>Examples of work</h1>
 <h2>♟ Mine Chess</h2>
+<i>Play game: </i>https://daniel-ope.itch.io/mine-chess <br/><br/>
 <img src="https://user-images.githubusercontent.com/97707320/159814033-80fdc64b-f6f2-45ab-8069-54a2213c6cb7.gif" alt="mine chess gif"/>
 <br/>
 
 <h2>✒ Textify Web App</h2>
+<i>Create art: </i>https://textify-daniel.web.app/ <br/><br/>
 <img src="https://user-images.githubusercontent.com/97707320/215551180-a31c6bda-de38-454e-bb9d-34d4335ccf17.gif" alt="Textify Web App gif"/>
 <br/>
 
+<h2>📚 QZed - Coming Soon</h2>
+<i>Study here: </i>https://qzedanswers.web.app/ <br/><br/>
+<img src="https://github.com/Daniel-Ope06/Daniel-Ope06/assets/97707320/de1c32c5-524d-4630-9863-e8696d5a2613" alt="QZed UI gif"/>
+<br/>
+
 <h2>🚚 Foodle Web App</h2>
+<i>Order food: </i>https://foodle-app-ope.web.app// <br/><br/>
 <img src="https://github.com/Daniel-Ope06/Daniel-Ope06/assets/97707320/69014ceb-677d-4059-9e7d-ea5f3bec602c" alt="Foodle web app gif"/>
 <br/>
 
-<h2> Textify</h2>
+<h2>♨️ Textify V0</h2>
 <img src="https://user-images.githubusercontent.com/97707320/174207009-e13274a2-a602-4834-bf9f-bbc6a5789de6.png" alt="Textify gif"/>
 <br/>
 
