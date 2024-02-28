@@ -1,8 +1,8 @@
 <h1> 👋 Hi, I’m Daniel Ope </h1>
 <ul>
-  <li>I’m interested in <strong>Game Development</strong> 🎮</li>
+  <li>I’m interested in <strong>Game & Web Development</strong> 🎮</li>
   <li>I’m currently studying <strong>Computer Science</strong> 🖥</li>
-  <li>I’m looking to collaborate on <strong>Game Projects</strong> 💞️</li>
+  <li>I’m looking to collaborate on <strong>Game & Web Projects</strong> 💞️</li>
   <li>Email: <strong>opeoluwaoyedeji06@gmail.com</strong></li>
 </ul>
 <br/>
@@ -38,17 +38,18 @@
 <br/>
 
 <h2>✒ Textify Web App</h2>
-<i>Create art: </i>https://textify-daniel.web.app/ <br/><br/>
+<i>Create art: </i>https://textify-daniel.web.app <br/><br/>
 <img src="https://user-images.githubusercontent.com/97707320/215551180-a31c6bda-de38-454e-bb9d-34d4335ccf17.gif" alt="Textify Web App gif"/>
 <br/>
 
-<h2>📚 QZed - Coming Soon</h2>
-<i>Study here: </i>https://qzedanswers.web.app/ <br/><br/>
-<img src="https://github.com/Daniel-Ope06/Daniel-Ope06/assets/97707320/de1c32c5-524d-4630-9863-e8696d5a2613" alt="QZed UI gif"/>
+<h2>📚 QZed</h2>
+<i>Study here: </i>https://qzed.app <br/><br/>
+
+![dashboard](https://github.com/Daniel-Ope06/daniel-ope06/assets/97707320/1b93f991-c9d9-470d-92e9-7fb79cf9072e)
 <br/>
 
 <h2>🚚 Foodle Web App</h2>
-<i>Order food: </i>https://foodle-app-ope.web.app// <br/><br/>
+<i>Order food: </i>https://foodle-app-ope.web.app <br/><br/>
 <img src="https://github.com/Daniel-Ope06/Daniel-Ope06/assets/97707320/69014ceb-677d-4059-9e7d-ea5f3bec602c" alt="Foodle web app gif"/>
 <br/>
 
@@ -56,9 +57,5 @@
 <img src="https://user-images.githubusercontent.com/97707320/174207009-e13274a2-a602-4834-bf9f-bbc6a5789de6.png" alt="Textify gif"/>
 <br/>
 
-<details>
-  <summary><h3>About Me</h3></summary>
-  <p>
-As an aspiring game developer in my 3rd year at Elizade University, I am passionate about creating visually stunning and immersive experiences. My interests in problem-solving and programming have led me to master various tools and technologies such as 𝘱𝘩𝘰𝘵𝘰𝘨𝘳𝘢𝘱𝘩𝘺, 𝘢𝘯𝘪𝘮𝘢𝘵𝘪𝘰𝘯, and 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨. I am constantly seeking to expand my skill set and am currently learning/using 𝗚𝗼𝗱𝗼𝘁, 𝗕𝗹𝗲𝗻𝗱𝗲𝗿, and 𝗨𝗻𝗿𝗲𝗮𝗹 𝗘𝗻𝗴𝗶𝗻𝗲 to further develop my abilities. I am confident that my passion for game development, my strong foundation in programming and my ongoing efforts to improve my skills make me an ideal candidate for any role in the industry.
-  </p>
-</details>
+<h3>About Me</h3>
+<p>I am a creative problem-solver with skills in 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈, 𝒂𝒏𝒊𝒎𝒂𝒕𝒊𝒐𝒏 (using 𝐁𝐥𝐞𝐧𝐝𝐞𝐫), and 𝒑𝒉𝒐𝒕𝒐𝒈𝒓𝒂𝒑𝒉𝒚. My dream is to become a game developer (using 𝐆𝐨𝐝𝐨𝐭 and 𝐔𝐧𝐫𝐞𝐚𝐥 𝐄𝐧𝐠𝐢𝐧𝐞), but for now, I am a front-end web developer (using 𝐀𝐧𝐠𝐮𝐥𝐚𝐫).</p>
