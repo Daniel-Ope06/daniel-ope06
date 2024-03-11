@@ -50,7 +50,7 @@
 ![dashboard](https://github.com/Daniel-Ope06/daniel-ope06/assets/97707320/1b93f991-c9d9-470d-92e9-7fb79cf9072e)
 <br/>
 
-<h2>🚚 Foodle Web App</h2>
+<h2>🚚 Foodle</h2>
 <i>Order food: </i>https://foodle-app-ope.web.app <br/><br/>
 <img src="https://github.com/Daniel-Ope06/Daniel-Ope06/assets/97707320/69014ceb-677d-4059-9e7d-ea5f3bec602c" alt="Foodle web app gif"/>
 <br/>
@@ -58,6 +58,3 @@
 <h2>♨️ Textify V0</h2>
 <img src="https://user-images.githubusercontent.com/97707320/174207009-e13274a2-a602-4834-bf9f-bbc6a5789de6.png" alt="Textify gif"/>
 <br/>
-
-<h3>About Me</h3>
-<p>I am a creative problem-solver with skills in 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈, 𝒂𝒏𝒊𝒎𝒂𝒕𝒊𝒐𝒏 (using 𝐁𝐥𝐞𝐧𝐝𝐞𝐫), and 𝒑𝒉𝒐𝒕𝒐𝒈𝒓𝒂𝒑𝒉𝒚. My dream is to become a game developer (using 𝐆𝐨𝐝𝐨𝐭 and 𝐔𝐧𝐫𝐞𝐚𝐥 𝐄𝐧𝐠𝐢𝐧𝐞), but for now, I am a front-end web developer (using 𝐀𝐧𝐠𝐮𝐥𝐚𝐫).</p>
