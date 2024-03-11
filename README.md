@@ -37,9 +37,11 @@
 <img src="https://user-images.githubusercontent.com/97707320/159814033-80fdc64b-f6f2-45ab-8069-54a2213c6cb7.gif" alt="mine chess gif"/>
 <br/>
 
-<h2>✒ Textify Web App</h2>
-<i>Create art: </i>https://textify-daniel.web.app <br/><br/>
-<img src="https://user-images.githubusercontent.com/97707320/215551180-a31c6bda-de38-454e-bb9d-34d4335ccf17.gif" alt="Textify Web App gif"/>
+<h2>✒ Textify</h2>
+<i>Create art: </i>https://textify-art.web.app <br/><br/>
+
+![textify-joy](https://github.com/Daniel-Ope06/daniel-ope06/assets/97707320/f830406d-a1a3-43ef-87c9-4d0b3282b83f)
+
 <br/>
 
 <h2>📚 QZed</h2>
