@@ -47,14 +47,6 @@
 <h2>📚 QZed</h2>
 <i>Study here: </i>https://qzed.app <br/><br/>
 
-![dashboard](https://github.com/Daniel-Ope06/daniel-ope06/assets/97707320/1b93f991-c9d9-470d-92e9-7fb79cf9072e)
-<br/>
+![QZedDemoGif](https://github.com/Daniel-Ope06/daniel-ope06/assets/97707320/2912c756-8784-4e92-83e7-bf1910ae69c3)
 
-<h2>🚚 Foodle</h2>
-<i>Order food: </i>https://foodle-app-ope.web.app <br/><br/>
-<img src="https://github.com/Daniel-Ope06/Daniel-Ope06/assets/97707320/69014ceb-677d-4059-9e7d-ea5f3bec602c" alt="Foodle web app gif"/>
-<br/>
-
-<h2>♨️ Textify V0</h2>
-<img src="https://user-images.githubusercontent.com/97707320/174207009-e13274a2-a602-4834-bf9f-bbc6a5789de6.png" alt="Textify gif"/>
 <br/>
