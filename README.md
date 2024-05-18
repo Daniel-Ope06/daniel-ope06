@@ -44,6 +44,13 @@
 
 <br/>
 
+<h2>🔬 NASS</h2>
+<i>Join here: </i>https://elizadenass.com.ng<br/><br/>
+
+![nass-eu](https://github.com/Daniel-Ope06/nass-app/assets/97707320/f82473c4-289f-4e35-a97d-5f04dbfb1de0)
+
+<br/>
+
 <h2>📚 QZed</h2>
 <i>Study here: </i>https://qzed.app <br/><br/>
 
