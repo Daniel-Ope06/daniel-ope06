@@ -1,52 +1,58 @@
-<h1> 👋 Hi, I’m Daniel Ope </h1>
+<h1>🌟 Hey there, I’m <strong>Daniel Ope</strong>!</h1>
 <ul>
-  <li>I’m interested in <strong>Game & Web Development</strong> 🎮</li>
-  <li>I’m currently studying <strong>Computer Science</strong> 🖥</li>
-  <li>I’m looking to collaborate on <strong>Game & Web Projects</strong> 💞️</li>
-  <li>Email: <strong>opeoluwaoyedeji06@gmail.com</strong></li>
+  <li>🎮 Passionate about <strong>Game, Web, and Mobile Development</strong>.</li>
+  <li>📚 Pursuing a master’s in <strong>Game Development</strong>, driven by a passion for gamified learning.</li>
+  <li>🤝 Open to <strong>collaborations in gaming and learning</strong>.</li>
+  <li>📧 Let’s connect: <a href="mailto:opeoluwaoyedeji06@gmail.com"><strong>opeoluwaoyedeji06@gmail.com</strong></a></li>
 </ul>
+
 <br/>
 
-<h2>🧰 Languages and Tools</h2>
-<img align="left" alt="Java" title="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<h1>🧰 Languages and Tools</h1>
 
-<img align="left" alt="Angular" title="Angular" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="TypeScript" title="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
-<img align="left" alt="TypeScript" title="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Dart" title="Dart" width="40px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 
-<img align="left" alt="Firebase" title="Firebase" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img align="left" alt="Angular" title="Angular" width="40px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 
-<img align="left" alt="HTML" title="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+<img align="left" alt="Flutter" title="Flutter" width="40px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 
-<img align="left" alt="CSS" title="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+<img align="left" alt="Godot" title="Godot" width="40px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
 
-<img align="left" alt="JavaScript" title="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Python" title="Python" width="40px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-<img align="left" alt="R" title="R" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+<img align="left" alt="Java" title="Java" width="40px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
-<img align="left" alt="Python" title="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="R" title="R" width="40px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 
-<img align="left" alt="Godot" title="Godot" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+<img align="left" alt="c sharp" title="C#" width="40px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
-<img align="left" alt="GitHub" title="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br/><br/><br/><br/>
 
-<h1>Examples of work</h1>
-<h2>♟ Mine Chess</h2>
-<b>Play Game: </b>https://daniel-ope.itch.io/mine-chess <br/><br/>
+<h1>Featured Projects</h1>
+<h2>💣Mine Chess</h2>
+<b>Play Game: </b><a href="https://daniel-ope.itch.io/mine-chess" target="_blank">daniel-ope.itch.io/mine-chess</a><br/><br/>
 <img src="https://user-images.githubusercontent.com/97707320/159814033-80fdc64b-f6f2-45ab-8069-54a2213c6cb7.gif" alt="mine chess gif"/>
 <br/>
 
-<h2>✒ Textify</h2>
-<b>Create Art: </b>https://textify-art.web.app <br/><br/>
+<h2>🎨Textify</h2>
+<b>Create Art: </b><a href="https://textify-art.web.app" target="_blank">textify-art.web.app</a><br/><br/>
 
-![textify-joy](https://github.com/Daniel-Ope06/daniel-ope06/assets/97707320/f830406d-a1a3-43ef-87c9-4d0b3282b83f)
-
-<br/>
-
-<h2>📚 QZed</h2>
-<b>Learn & Play: </b><a href="https://qzed.africa/" target="_blank">qzed.africa</a> <br/><br/>
-
-![QZedDemoGif](https://github.com/Daniel-Ope06/daniel-ope06/assets/97707320/2912c756-8784-4e92-83e7-bf1910ae69c3)
+![textify](https://github.com/user-attachments/assets/6a6b04a8-2ba9-47fd-ab23-96440f4d6d6d)
 
 <br/>
+
+<h2>🏆QZed</h2>
+<b>Learn & Play: </b><a href="https://qzed.africa" target="_blank">qzed.africa</a><br/><br/>
+
+![qzed-home](https://github.com/user-attachments/assets/40e3558f-5aa9-45a1-b519-28282daee3f9)
+
