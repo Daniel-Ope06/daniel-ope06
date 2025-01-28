@@ -33,26 +33,19 @@
 
 <h1>Examples of work</h1>
 <h2>♟ Mine Chess</h2>
-<i>Play game: </i>https://daniel-ope.itch.io/mine-chess <br/><br/>
+<b>Play Game: </b>https://daniel-ope.itch.io/mine-chess <br/><br/>
 <img src="https://user-images.githubusercontent.com/97707320/159814033-80fdc64b-f6f2-45ab-8069-54a2213c6cb7.gif" alt="mine chess gif"/>
 <br/>
 
 <h2>✒ Textify</h2>
-<i>Create art: </i>https://textify-art.web.app <br/><br/>
+<b>Create Art: </b>https://textify-art.web.app <br/><br/>
 
 ![textify-joy](https://github.com/Daniel-Ope06/daniel-ope06/assets/97707320/f830406d-a1a3-43ef-87c9-4d0b3282b83f)
 
 <br/>
 
-<h2>🔬 NASS</h2>
-<i>Join here: </i>https://elizadenass.com.ng<br/><br/>
-
-![nass-eu](https://github.com/Daniel-Ope06/nass-app/assets/97707320/f82473c4-289f-4e35-a97d-5f04dbfb1de0)
-
-<br/>
-
 <h2>📚 QZed</h2>
-<i>Study here: </i>https://qzed.app <br/><br/>
+<b>Learn & Play: </b><a href="https://qzed.africa/" target="_blank">qzed.africa</a> <br/><br/>
 
 ![QZedDemoGif](https://github.com/Daniel-Ope06/daniel-ope06/assets/97707320/2912c756-8784-4e92-83e7-bf1910ae69c3)
 
