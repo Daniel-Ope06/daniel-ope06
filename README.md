@@ -24,17 +24,20 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original
 <img align="left" alt="Godot" title="Godot" width="40px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
 
+<img align="left" alt="Blender" title="Blender" width="40px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+
 <img align="left" alt="Python" title="Python" width="40px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-<img align="left" alt="Java" title="Java" width="40px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="c sharp" title="C#" width="40px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
 <img align="left" alt="R" title="R" width="40px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 
-<img align="left" alt="c sharp" title="C#" width="40px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Java" title="Java" width="40px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
 <br/><br/><br/><br/>
 
