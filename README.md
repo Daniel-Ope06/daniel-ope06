@@ -1,7 +1,7 @@
 <h1>🌟 Hey there, I’m <strong>Daniel Ope</strong>!</h1>
 <ul>
   <li>🎮 Passionate about <strong>Game, Web, and Mobile Development</strong>.</li>
-  <li>📚 Pursuing a master’s in <strong>Game Development</strong>, driven by a passion for gamified learning.</li>
+  <li>📚 Pursuing a master’s in <strong>Artificial Intelligence</strong>, driven by a passion for gamified learning.</li>
   <li>🤝 Open to <strong>collaborations in gaming and learning</strong>.</li>
   <li>📧 Let’s connect: <a href="mailto:opeoluwaoyedeji06@gmail.com"><strong>opeoluwaoyedeji06@gmail.com</strong></a></li>
 </ul>
@@ -57,5 +57,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/
 <h2>🏆QZed</h2>
 <b>Learn & Play: </b><a href="https://qzed.africa" target="_blank">qzed.africa</a><br/><br/>
 
-![qzed-home](https://github.com/user-attachments/assets/40e3558f-5aa9-45a1-b519-28282daee3f9)
+![qzed-gif](https://github.com/user-attachments/assets/bf2f1be3-152d-4894-bc96-415bd5bbbf5e)
+
 
