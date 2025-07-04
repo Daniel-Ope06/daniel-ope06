@@ -48,14 +48,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/
 <br/>
 
 <h2>🎨Textify</h2>
-<b>Create Art: </b><a href="https://textify-art.web.app" target="_blank">textify-art.web.app</a><br/><br/>
+<b>Speak In Symbols: </b><a href="https://textify-art.web.app" target="_blank">textify-art.web.app</a><br/><br/>
 
 ![textify](https://github.com/user-attachments/assets/6a6b04a8-2ba9-47fd-ab23-96440f4d6d6d)
 
 <br/>
 
 <h2>🏆QZed</h2>
-<b>Learn & Play: </b><a href="https://qzed.africa" target="_blank">qzed.africa</a><br/><br/>
+<b>Mastery Through Play: </b><a href="https://qzed.africa" target="_blank">qzed.africa</a><br/><br/>
 
 ![qzed-gif](https://github.com/user-attachments/assets/bf2f1be3-152d-4894-bc96-415bd5bbbf5e)
 
