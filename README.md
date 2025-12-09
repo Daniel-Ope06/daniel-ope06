@@ -1,8 +1,8 @@
 <h1>🌟 Hey there, I’m <strong>Daniel Ope</strong>!</h1>
 <ul>
-  <li>🎮 Passionate about <strong>Game, Web, and Mobile Development</strong>.</li>
-  <li>📚 Pursuing a master’s in <strong>Artificial Intelligence</strong>, driven by a passion for gamified learning.</li>
-  <li>🤝 Open to <strong>collaborations in gaming and learning</strong>.</li>
+  <li>🚀 Passionate about <strong>data-driven solutions</strong> with M.L. & Statistics.</li>
+  <li>📚 Pursuing a master’s in <strong>Advanced Computing with A.I.</strong>
+  <li>🤝 Open to collaborations in <strong>game dev and data science</strong>.</li>
   <li>📧 Let’s connect: <a href="mailto:opeoluwaoyedeji06@gmail.com"><strong>opeoluwaoyedeji06@gmail.com</strong></a></li>
 </ul>
 
@@ -10,34 +10,25 @@
 
 <h1>🧰 Languages and Tools</h1>
 
-<img align="left" alt="TypeScript" title="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-
-<img align="left" alt="Dart" title="Dart" width="40px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-
-<img align="left" alt="Angular" title="Angular" width="40px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-
-<img align="left" alt="Flutter" title="Flutter" width="40px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-
-<img align="left" alt="Godot" title="Godot" width="40px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
-
-<img align="left" alt="Blender" title="Blender" width="40px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-
 <img align="left" alt="Python" title="Python" width="40px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
-<img align="left" alt="c sharp" title="C#" width="40px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
 <img align="left" alt="R" title="R" width="40px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 
 <img align="left" alt="Java" title="Java" width="40px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+<img align="left" alt="TypeScript" title="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
+<img align="left" alt="Angular" title="Angular" width="40px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+
+<img align="left" alt="Godot" title="Godot" width="40px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+
+<img align="left" alt="Blender" title="Blender" width="40px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 
 <br/><br/><br/><br/>
 
