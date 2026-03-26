@@ -48,6 +48,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original
 <h2>🏆QZed</h2>
 <b>Mastery Through Play: </b><a href="https://qzed.africa" target="_blank">qzed.africa</a><br/><br/>
 
-![qzed-gif](https://github.com/user-attachments/assets/bf2f1be3-152d-4894-bc96-415bd5bbbf5e)
+![qzed_home](https://github.com/user-attachments/assets/0e81eaf9-e765-44be-8929-ed6364365ca2)
 
-
+<br/>
