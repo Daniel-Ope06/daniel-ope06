@@ -33,16 +33,16 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original
 <br/><br/><br/><br/>
 
 <h1>Featured Projects</h1>
+<h2>🚁 Overhead Drone Navigation</h2>
+<b>Pathfinding with aerial images: </b><a href="https://github.com/Daniel-Ope06/overhead-sar-navigation" target="_blank">View Repository</a><br/><br/>
+<a href="https://github.com/Daniel-Ope06/overhead-sar-navigation">
+  <img src="https://raw.githubusercontent.com/Daniel-Ope06/overhead-sar-navigation/main/showcase/solved_examples/neural_semantic/solved_maze_env_0134.png" alt="maze example"/>
+</a>
+<br/><br/>
+
 <h2>💣Mine Chess</h2>
 <b>Play Game: </b><a href="https://daniel-ope.itch.io/mine-chess" target="_blank">daniel-ope.itch.io/mine-chess</a><br/><br/>
 <img src="https://user-images.githubusercontent.com/97707320/159814033-80fdc64b-f6f2-45ab-8069-54a2213c6cb7.gif" alt="mine chess gif"/>
-<br/>
-
-<h2>🎨Textify</h2>
-<b>Speak In Symbols: </b><a href="https://textify-art.web.app" target="_blank">textify-art.web.app</a><br/><br/>
-
-![textify](https://github.com/user-attachments/assets/6a6b04a8-2ba9-47fd-ab23-96440f4d6d6d)
-
 <br/>
 
 <h2>🏆QZed</h2>
