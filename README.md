@@ -40,14 +40,16 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original
 </a>
 <br/><br/>
 
-<h2>💣Mine Chess</h2>
-<b>Play Game: </b><a href="https://daniel-ope.itch.io/mine-chess" target="_blank">daniel-ope.itch.io/mine-chess</a><br/><br/>
-<img src="https://user-images.githubusercontent.com/97707320/159814033-80fdc64b-f6f2-45ab-8069-54a2213c6cb7.gif" alt="mine chess gif"/>
-<br/>
-
 <h2>🏆QZed</h2>
 <b>Mastery Through Play: </b><a href="https://qzed.africa" target="_blank">qzed.africa</a><br/><br/>
+<a href="https://qzed.africa">
+  <img src="https://github.com/user-attachments/assets/0e81eaf9-e765-44be-8929-ed6364365ca2" alt="qzed gif"/>
+</a>
+<br/><br/>
 
-![qzed_home](https://github.com/user-attachments/assets/0e81eaf9-e765-44be-8929-ed6364365ca2)
-
-<br/>
+<h2>💣Mine Chess</h2>
+<b>Play Game: </b><a href="https://daniel-ope.itch.io/mine-chess" target="_blank">daniel-ope.itch.io/mine-chess</a><br/><br/>
+<a href="https://github.com/Daniel-Ope06/mine-chess-v1">
+  <img src="https://user-images.githubusercontent.com/97707320/159814033-80fdc64b-f6f2-45ab-8069-54a2213c6cb7.gif" alt="mine chess gif"/>
+</a>
+<br/><br/>
