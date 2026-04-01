@@ -1,8 +1,8 @@
 <h1>🌟 Hey there, I’m <strong>Daniel Ope</strong>!</h1>
 <ul>
-  <li>🚀 Passionate about <strong>data-driven solutions</strong> with M.L. & Statistics.</li>
-  <li>📚 Pursuing a master’s in <strong>Advanced Computing with A.I.</strong>
-  <li>🤝 Open to collaborations in <strong>game dev and data science</strong>.</li>
+  <li>🚀 Specializing in <strong>Computer Vision, Deep Learning, and Autonomous Systems</strong>.</li>
+  <li>📚 Pursuing a Master’s in <strong>Advanced Computing with A.I.</strong></li>
+  <li>🤝 Open to collaborations in <strong>Spatial AI, Machine Learning, and Game Dev</strong>.</li>
   <li>📧 Let’s connect: <a href="mailto:opeoluwaoyedeji06@gmail.com"><strong>opeoluwaoyedeji06@gmail.com</strong></a></li>
 </ul>
 
@@ -29,6 +29,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg
 
 <img align="left" alt="Blender" title="Blender" width="40px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+
+<img align="left" alt="PyTorch" title="PyTorch" width="40px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+
+<img align="left" alt="OpenCV" title="OpenCV" width="40px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
 
 <br/><br/><br/><br/>
 
