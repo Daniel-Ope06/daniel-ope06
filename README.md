@@ -33,10 +33,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original
 <br/><br/><br/><br/>
 
 <h1>Featured Projects</h1>
-<h2>🚁 Overhead Drone Navigation</h2>
-<b>Pathfinding with aerial images: </b><a href="https://github.com/Daniel-Ope06/overhead-sar-navigation" target="_blank">View Repository</a><br/><br/>
-<a href="https://github.com/Daniel-Ope06/overhead-sar-navigation">
-  <img src="https://raw.githubusercontent.com/Daniel-Ope06/overhead-sar-navigation/main/showcase/solved_examples/neural_semantic/solved_maze_env_0134.png" alt="maze example"/>
+<h2>🚁 Ariadne: Air-to-Ground Optical Navigation</h2>
+<b>Routing for GPS-denied environments using U-Net & A*: </b> <a href="https://github.com/Daniel-Ope06/ariadne-poc" target="_blank">View Repository</a>
+<br/><br/>
+<a href="https://github.com/Daniel-Ope06/ariadne-poc" target="_blank">
+  <img src="https://raw.githubusercontent.com/Daniel-Ope06/ariadne-poc/main/showcase/solved_examples/neural_semantic/solved_maze_env_0134.png" width="600" alt="Ariadne routing example"/>
 </a>
 <br/><br/>
 
